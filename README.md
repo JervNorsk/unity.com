@@ -1,2 +1,2 @@
-# unity.com
-Private collection of projects on Unity
+# Personal Workspace for Unity
+For manage Unity projects and collaborations
